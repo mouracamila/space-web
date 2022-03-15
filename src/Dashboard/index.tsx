@@ -1,12 +1,9 @@
-import React from 'react'
-import ReactDOM from 'react-dom'
-import App from '../App'
-import './index.css'
+import React from 'react';
 
-const rootElement = document.getElementById('root')
-ReactDOM.render(
-  <React.StrictMode>
-    <App />
-  </React.StrictMode>,
-  rootElement
-)
+// import { Container } from './styles';
+
+const Dashboard: React.FC = () => {
+  return <div />;
+}
+
+export default Dashboard;
