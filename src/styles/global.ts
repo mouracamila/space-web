@@ -25,6 +25,26 @@ export default createGlobalStyle `
         font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
           monospace;
     }
+
+    
+    html,
+    body,
+    #root {
+    height: 100%;
+    width: 100%;
+    }
+
+    body {
+    font-family: system-ui;
+    margin: 0;
+    }
+
+    *,
+    *:after,
+    *:before {
+    box-sizing: border-box;
+    }
+
       
 
 `
