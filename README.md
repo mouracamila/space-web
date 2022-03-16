@@ -1,10 +1,13 @@
-<h1> Hi </h1>
+<h1> Hello, clarice. </h1>
 
-This is just a <strong> copy</strong> of the project: https://codesandbox.io/s/h1rrv
+![Alt Text](https://media.giphy.com/media/146NwA4ucisPoA/giphy.gif)
+
+<h2>This is just a <strong> copy</strong> of the project: https://codesandbox.io/s/h1rrv </h2>
 
 The only purpose here is to study how the <strong>@react-spring/parallax </strong> plugin works. https://github.com/pmndrs/react-spring
 
 
+![Alt Text](public/show.gif)
 
 
 In the project directory, you can run:
