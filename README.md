@@ -1,4 +1,4 @@
-<h1> Hello, clarice. </h1>
+<h1> Hello, Clarice. </h1>
 
 ![Alt Text](https://media.giphy.com/media/146NwA4ucisPoA/giphy.gif)
 
