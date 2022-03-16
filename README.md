@@ -6,9 +6,11 @@
 
 The only purpose here is to study how the <strong>@react-spring/parallax </strong> plugin works. https://github.com/pmndrs/react-spring
 
+<h4>This is supposed to be like this:</h4>
 
 ![Alt Text](public/show.gif)
 
+Very cool, right?
 
 In the project directory, you can run:
 
