@@ -2,7 +2,7 @@
 
 ![Alt Text](https://media.giphy.com/media/146NwA4ucisPoA/giphy.gif)
 
-<h2>This is just a <strong> copy</strong> of the project: https://codesandbox.io/s/h1rrv </h2>
+<h2>This is a <strong> copy</strong>: https://codesandbox.io/s/h1rrv </h2>
 
 The only purpose here is to study how the <strong>@react-spring/parallax </strong> plugin works. https://github.com/pmndrs/react-spring
 
