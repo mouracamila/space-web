@@ -12,7 +12,7 @@ The only purpose here is to study how the <strong>@react-spring/parallax </stron
 
 Very cool, right?
 
-In the project directory, you can run:
+Run:
 
 ### `yarn start`
 
